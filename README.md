@@ -1,26 +1,28 @@
 # OS EX.4-LINUX-COMMANDS
 
-AIM:
+## AIM:
 
 To practice some linux operating system commands.
 
-COMMAND: pwd Command
+### COMMAND: pwd Command
+
 The pwd command is used to display the location of the current working directory.
 
-Syntax:
+### Syntax:
 ➔ pwd
 
-OUTPUT:
+### OUTPUT:
+![1](https://github.com/Divya110205/EX.4-LINUX-COMMANDS/assets/119404855/a4963bb2-0a33-4eb8-a3ef-6915cb3df434)
 
+### COMMAND: mkdir Command
 
-COMMAND: mkdir Command
 The mkdir command is used to create a new directory under any directory
 
-Syntax :
+### Syntax :
 ➔ mkdir
 
-OUTPUT:
-
+### OUTPUT:
+![2](https://github.com/Divya110205/EX.4-LINUX-COMMANDS/assets/119404855/86efda23-14c4-4599-b4ff-46d239ca443b)
 
 COMMAND:ls Command
 The ls command is used to display a list of content of a directory
