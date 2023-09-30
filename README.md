@@ -183,7 +183,7 @@ Linux ip command is an updated version of the ipconfig command. It is used to as
 
 ### Syntax:
 
-ip a or ip addr
+➔ip a or ip addr
 
 ### OUTPUT:
 ![17](https://github.com/Divya110205/EX.4-LINUX-COMMANDS/assets/119404855/e7208185-25de-4ad7-82f3-ed6e2257359a)
